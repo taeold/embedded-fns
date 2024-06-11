@@ -2,6 +2,7 @@
   "name": "embedded-cf3",
   "version": "0.0.0",
   "scripts": {
+BOOM
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
